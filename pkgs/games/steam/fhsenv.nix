@@ -96,7 +96,6 @@ in buildFHSUserEnv rec {
     libdrm
     libxkbcommon # paradox launcher
     libvorbis # Dead Cells
-    mono
     xorg.xkeyboardconfig
     xorg.libpciaccess
     xorg.libXScrnSaver # Dead Cells
